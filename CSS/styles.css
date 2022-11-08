@@ -1,0 +1,22 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+}
+h1,h2,h3{
+  color: #66BFBF;
+}
+a:link{
+  color: blue;
+}
+a:visited{
+  color: red;
+}
+a:hover{
+  color: hotpink;
+}
